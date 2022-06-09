@@ -1,0 +1,282 @@
+2022-06-08 07:09:24:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:09:24:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:09:24:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:09:24:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ pants
+2022-06-08 07:09:24:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:09:24:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  pants
+2022-06-08 07:09:33:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:09:33:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:09:33:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:09:33:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ Ryan
+2022-06-08 07:09:33:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:09:33:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  Ryan
+2022-06-08 07:09:39:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:09:39:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:09:39:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:09:39:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.merriam-webster.com/dictionary/ gabagool
+2022-06-08 07:09:39:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:09:39:wordhoard.dictionary:INFO: Merriam-webster.com has no definition reference for the word  gabagool
+2022-06-08 07:09:40:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:09:40:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:09:40:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:09:40:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ gabagool
+2022-06-08 07:09:40:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:09:40:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  gabagool
+2022-06-08 07:10:32:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:10:32:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:10:32:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:10:32:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.merriam-webster.com/dictionary/ gabagool
+2022-06-08 07:10:32:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:10:32:wordhoard.dictionary:INFO: Merriam-webster.com has no definition reference for the word  gabagool
+2022-06-08 07:10:33:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:10:33:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:10:33:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:10:33:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ gabagool
+2022-06-08 07:10:33:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:10:33:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  gabagool
+2022-06-08 07:11:46:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:11:46:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:11:46:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:11:46:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.merriam-webster.com/dictionary/ gabagool
+2022-06-08 07:11:46:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:11:46:wordhoard.dictionary:INFO: Merriam-webster.com has no definition reference for the word  gabagool
+2022-06-08 07:11:47:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:11:47:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:11:47:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:11:47:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ gabagool
+2022-06-08 07:11:47:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:11:47:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  gabagool
+2022-06-08 07:51:02:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:51:02:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:51:02:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:51:02:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ pineapple
+2022-06-08 07:51:02:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:51:02:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  pineapple
+2022-06-08 07:51:55:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:51:55:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:51:55:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:51:55:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ putin
+2022-06-08 07:51:55:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:51:55:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  putin
+2022-06-08 07:52:10:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:52:10:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:52:10:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:52:10:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.merriam-webster.com/dictionary/ putin dictator
+2022-06-08 07:52:10:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:52:10:wordhoard.dictionary:INFO: Merriam-webster.com has no definition reference for the word  putin dictator
+2022-06-08 07:52:11:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:52:11:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:52:11:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:52:11:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ putin dictator
+2022-06-08 07:52:11:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:52:11:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  putin dictator
+2022-06-08 07:54:14:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:54:14:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:54:14:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:54:14:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.merriam-webster.com/dictionary/allofusaredead
+2022-06-08 07:54:14:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:54:14:wordhoard.dictionary:INFO: Merriam-webster.com has no definition reference for the word allofusaredead
+2022-06-08 07:54:14:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:54:14:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:54:14:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:54:14:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/allofusaredead
+2022-06-08 07:54:14:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:54:14:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word allofusaredead
+2022-06-08 07:54:48:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:54:48:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:54:48:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:54:48:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.merriam-webster.com/dictionary/strangerthings
+2022-06-08 07:54:48:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:54:48:wordhoard.dictionary:INFO: Merriam-webster.com has no definition reference for the word strangerthings
+2022-06-08 07:54:49:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:54:49:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:54:49:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:54:49:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/strangerthings
+2022-06-08 07:54:49:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:54:49:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word strangerthings
+2022-06-08 07:55:38:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:55:38:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:55:38:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:55:38:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.merriam-webster.com/dictionary/netflix
+2022-06-08 07:55:38:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:55:38:wordhoard.dictionary:INFO: Merriam-webster.com has no definition reference for the word netflix
+2022-06-08 07:55:38:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:55:38:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:55:38:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:55:38:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/netflix
+2022-06-08 07:55:38:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:55:38:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word netflix
+2022-06-08 07:56:00:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:56:00:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:56:00:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:56:00:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.merriam-webster.com/dictionary/ netflix
+2022-06-08 07:56:00:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:56:00:wordhoard.dictionary:INFO: Merriam-webster.com has no definition reference for the word  netflix
+2022-06-08 07:56:00:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:56:00:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:56:00:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:56:00:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ netflix
+2022-06-08 07:56:00:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:56:00:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  netflix
+2022-06-08 07:56:34:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:56:34:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:56:34:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:56:34:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ media
+2022-06-08 07:56:34:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:56:34:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  media
+2022-06-08 07:56:35:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:56:35:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:56:35:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:56:35:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/media
+2022-06-08 07:56:35:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:56:35:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word media
+2022-06-08 07:59:06:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:59:06:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 07:59:06:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 07:59:06:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ balls
+2022-06-08 07:59:06:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 07:59:06:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  balls
+2022-06-08 09:20:01:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:20:01:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 09:20:01:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 09:20:01:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ idiot
+2022-06-08 09:20:01:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:20:01:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  idiot
+2022-06-08 09:20:39:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:20:39:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 09:20:39:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 09:20:39:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ dexter
+2022-06-08 09:20:39:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:20:39:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  dexter
+2022-06-08 09:23:16:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:23:16:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 09:23:16:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 09:23:16:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ miller
+2022-06-08 09:23:16:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:23:16:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  miller
+2022-06-08 09:26:49:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:26:49:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 09:26:49:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 09:26:49:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ you
+2022-06-08 09:26:49:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:26:49:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  you
+2022-06-08 09:26:58:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:26:58:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 09:26:58:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 09:26:58:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ adam
+2022-06-08 09:26:58:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:26:58:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  adam
+2022-06-08 09:27:17:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:27:17:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 09:27:17:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 09:27:17:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.merriam-webster.com/dictionary/ hermans
+2022-06-08 09:27:17:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:27:17:wordhoard.dictionary:INFO: Merriam-webster.com has no definition reference for the word  hermans
+2022-06-08 09:27:17:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:27:17:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 09:27:17:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 09:27:17:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ hermans
+2022-06-08 09:27:17:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:27:17:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  hermans
+2022-06-08 09:27:35:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:27:35:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 09:27:35:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 09:27:35:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.merriam-webster.com/dictionary/ ass whoopin
+2022-06-08 09:27:35:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:27:35:wordhoard.dictionary:INFO: Merriam-webster.com has no definition reference for the word  ass whoopin
+2022-06-08 09:27:35:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:27:35:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 09:27:35:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 09:27:35:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ ass whoopin
+2022-06-08 09:27:35:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:27:35:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  ass whoopin
+2022-06-08 09:27:46:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:27:46:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 09:27:46:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 09:27:46:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.merriam-webster.com/dictionary/ ass-whoopin
+2022-06-08 09:27:46:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:27:46:wordhoard.dictionary:INFO: Merriam-webster.com has no definition reference for the word  ass-whoopin
+2022-06-08 09:27:46:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:27:46:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 09:27:46:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 09:27:46:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ ass-whoopin
+2022-06-08 09:27:46:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:27:46:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  ass-whoopin
+2022-06-08 09:28:02:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:28:02:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 09:28:02:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 09:28:02:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.merriam-webster.com/dictionary/ ass whooping
+2022-06-08 09:28:02:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:28:02:wordhoard.dictionary:INFO: Merriam-webster.com has no definition reference for the word  ass whooping
+2022-06-08 09:28:03:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:28:03:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 09:28:03:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 09:28:03:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ ass whooping
+2022-06-08 09:28:03:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 09:28:03:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  ass whooping
+2022-06-08 10:07:05:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 10:07:05:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 10:07:05:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 10:07:05:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.merriam-webster.com/dictionary/ Jeshua
+2022-06-08 10:07:05:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 10:07:05:wordhoard.dictionary:INFO: Merriam-webster.com has no definition reference for the word  Jeshua
+2022-06-08 10:07:05:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 10:07:05:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 10:07:05:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 10:07:05:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ Jeshua
+2022-06-08 10:07:05:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 10:07:05:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  Jeshua
+2022-06-08 10:07:12:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 10:07:12:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 10:07:12:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 10:07:12:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ Adam
+2022-06-08 10:07:12:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 10:07:12:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  Adam
+2022-06-08 11:22:48:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 11:22:48:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 11:22:48:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 11:22:48:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.merriam-webster.com/dictionary/ chylmedia
+2022-06-08 11:22:48:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 11:22:48:wordhoard.dictionary:INFO: Merriam-webster.com has no definition reference for the word  chylmedia
+2022-06-08 11:22:49:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 11:22:49:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 11:22:49:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 11:22:49:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ chylmedia
+2022-06-08 11:22:49:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 11:22:49:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  chylmedia
+2022-06-08 11:23:00:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 11:23:00:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 11:23:00:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 11:23:00:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.merriam-webster.com/dictionary/ grilled cheese
+2022-06-08 11:23:00:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 11:23:00:wordhoard.dictionary:INFO: Merriam-webster.com has no definition reference for the word  grilled cheese
+2022-06-08 11:23:00:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 11:23:00:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 11:23:00:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 11:23:00:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ grilled cheese
+2022-06-08 11:23:00:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 11:23:00:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  grilled cheese
+2022-06-08 11:23:14:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 11:23:14:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 11:23:14:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 11:23:14:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ tower
+2022-06-08 11:23:14:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 11:23:14:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  tower
+2022-06-08 14:32:29:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 14:32:29:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 14:32:29:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 14:32:29:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ computer
+2022-06-08 14:32:29:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 14:32:29:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  computer
+2022-06-08 14:32:56:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 14:32:56:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 14:32:56:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 14:32:56:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/ headphones
+2022-06-08 14:32:56:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 14:32:56:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word  headphones
+2022-06-08 14:33:17:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 14:33:17:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-06-08 14:33:17:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-06-08 14:33:17:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.synonym.com/synonyms/headphones
+2022-06-08 14:33:17:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-06-08 14:33:17:wordhoard.dictionary:INFO: Synonym.com had no definition reference for the word headphones
