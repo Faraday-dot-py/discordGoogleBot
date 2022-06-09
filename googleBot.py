@@ -19,20 +19,21 @@ async def on_ready():
 
 @dClient.event
 async def on_message(message):
-    print("Got message")
 
     if message.author == dClient.user:
         return
 
-    if message.content == "!help":
+    print("Got message")
+
+    if message.content.lower() == "!help":
         await message.channel.send("Use the command: !define [search term] to look up stuff.\nUse the command: !help to display this message")
 
-    if message.content.find("jacob"):
+    elif message.content.lower().find("jacob") != -1:
         await message.channel.send("Why are we talking about him again? Did someone want an example of an idiot?")
 
-    if message.content.find("!define") == 0:
+    elif message.content.lower().find("!define") == 0:
 
-        word = message.content[7:] if message.content[7] != " " else message.content[8:]
+        word = message.content.lower()[7:] if message.content.lower()[7] != " " else message.content.lower()[8:]
 
         definitionList = urbanDictClient.get_definition(word)
 
@@ -46,6 +47,9 @@ async def on_message(message):
 
         except IndexError:
             await message.channel.send("No definition was found on urban dictionary")
+
+    elif message.content.lower() == "!test!":
+        await message.channel.send("Google Bot#1577 is currently connected")
 
 
 dClient.run(DISCORD_TOKEN)
