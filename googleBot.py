@@ -31,6 +31,12 @@ async def on_message(message):
     elif message.content.lower().find("jacob") != -1:
         await message.channel.send("Why are we talking about him again? Did someone want an example of an idiot?")
 
+    elif message.content.lower() == "!define ander":
+        await message.channel.send("He got [bitches]")
+
+    elif message.content.lower().find("shut up") != -1:
+        await message.channel.send("No")
+
     elif message.content.lower().find("!define") == 0:
 
         word = message.content.lower()[7:] if message.content.lower()[7] != " " else message.content.lower()[8:]
