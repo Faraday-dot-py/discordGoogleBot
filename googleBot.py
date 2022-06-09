@@ -1,38 +1,48 @@
 import os
 
 import discord
-import wikipedia.exceptions
 from dotenv import load_dotenv
-
-import wikipedia as wk
 
 from DISCORD_TOKEN import DISCORD_TOKEN
 
-client = discord.Client()
+from udpy import UrbanClient
 
-@client.event
+dClient = discord.Client()
+
+urbanDictClient = UrbanClient()
+
+
+
+@dClient.event
 async def on_ready():
-    print(f"{client.user} has connected to Discord!")
+    print(f"{dClient.user} has connected to Discord!")
 
-@client.event
+@dClient.event
 async def on_message(message):
-    print("Got response")
+    print("Got message")
 
-    if message.author == client.user:
+    if message.author == dClient.user:
         return
 
     if message.content == "!help":
-        await message.channel.send("Use the command: !google [search term] to look up stuff.\nUse the command: !help to display this message")
+        await message.channel.send("Use the command: !define [search term] to look up stuff.\nUse the command: !help to display this message")
 
-    if message.content.find("!google") == 0:
+    if message.content.find("!define") == 0:
+
+        word = message.content[7:] if message.content[7] != " " else message.content[8:]
+
+        definitionList = urbanDictClient.get_definition(word)
+
         try:
-            response = wk.summary(message.content[7:], sentences = 3)
 
-            await message.channel.send(response)
+            definition = definitionList[0].definition
 
-        except wikipedia.exceptions.PageError:
-            await message.channel.send("Was not able to find a page on {}".format(message.content[7:]))
+            print(definition)
+
+            await message.channel.send(definition)
+
+        except IndexError:
+            await message.channel.send("No definition was found on urban dictionary")
 
 
-
-client.run(DISCORD_TOKEN)
+dClient.run(DISCORD_TOKEN)
