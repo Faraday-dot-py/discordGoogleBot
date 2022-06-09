@@ -27,6 +27,9 @@ async def on_message(message):
     if message.content == "!help":
         await message.channel.send("Use the command: !define [search term] to look up stuff.\nUse the command: !help to display this message")
 
+    if message.content.find("jacob"):
+        await message.channel.send("Why are we talking about him again? Did someone want an example of an idiot?")
+
     if message.content.find("!define") == 0:
 
         word = message.content[7:] if message.content[7] != " " else message.content[8:]
