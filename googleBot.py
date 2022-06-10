@@ -23,6 +23,9 @@ async def on_message(message):
     if message.author == dClient.user:
         return
 
+    if message.channel.id != 984664817946218566:
+        return
+
     print("Got message")
 
     msg = message.content.lower()
